@@ -159,7 +159,7 @@ col1, col2 = st.columns(2)
 
  # Load and display the image
 with col1:
-        image1 = 'https://github.com/SamuelGladly/Finalyrprojectsam/blob/main/AirbnbAnalysis/OIP.jpg'
+        image1 = 'https://raw.githubusercontent.com/SamuelGladly/Finalyrprojectsam/refs/heads/main/AirbnbAnalysis/OIP.jpg'
         st.image(image1, width=300)
         
 with col2:
